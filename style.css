@@ -28,7 +28,136 @@
 
 
 <!-- Umar --> */
+  .header7{
+    /* driver-1 1 */
+    position: absolute;
+    width: 1299px;
+    height: 500px;
+    left: 70px;
+    right: -69px;
+    top: 3700px;
+    bottom: -3770px;
+    background-image: url(./umarbekimages/driver-1\ 1.png);
+  }
+  .driver{
+    /* become a driver */
+    position: absolute;
+    width: 334px;
+    height: 62px;
+    left: 36px;
+    right: 860px;
+    top: 30px;
+    bottom: -3362px;
+    color: rgb(255, 255, 255);
+    font-family: DM Serif Display;
+    font-size: 45px;
+    font-weight: 400;
+    line-height: 62px;
+    letter-spacing: 0%;
+    text-align: left;
+    text-transform: capitalize;
+  }
+  .time{
+    /* Your time. Your goals. You're the boss. */
+    position: absolute;
+    width: 750px;
+    height: 50px;
+    left: 36px;
+    right: 444px;
+    top: 83px;
+    bottom: -3403px;
+    color: rgb(255, 255, 255);
+    font-family: DM Serif Display;
+    font-size: 45px;
+    font-weight: 400;
+    line-height: 62px;
+    letter-spacing: 0%;
+    text-align: left;
+    text-transform: capitalize;
+  }
+  .join{
+    /* suscribe and joins us */
+    position: absolute;
+    width: 300px;
+    height: 35px;
+    left: 36px;
+    right: 894px;
+    top: 292px;
+    bottom: -3597px;
+    color: rgb(255, 255, 255);
+    font-family: Roboto;
+    font-size: 30px;
+    font-weight: 400;
+    line-height: 35px;
+    letter-spacing: 0%;
+    text-align: left;
+    text-transform: capitalize;
+  }
+  .lineinput{
+    /* Rectangle 40 */
+    position: absolute;
+    width: 958px;
+    height: 93px;
+    left: 36px;
+    right: -106px;
+    top: 339px;
+    bottom: -4109px;
+    border-radius: 10px;
 
+    background: rgb(229, 229, 229);
+  }
+  .header7 input{
+    /* EMAIL */
+    position: absolute;
+    width: 89px;
+    height: 35px;
+    left: 27px;
+    right: 736px;
+    top: 29px;
+    bottom: -4080px;
+    color: rgba(0, 0, 0, 0.35);
+    font-family: Roboto;
+    font-size: 30px;
+    font-weight: 500;
+    line-height: 35px;
+    letter-spacing: 0%;
+    text-align: left;
+    text-transform: capitalize;
+    border: none;
+    outline: none;
+    background: rgb(229, 229, 229);
+  }
+  .but{
+    /* Rectangle 41 */
+    position: absolute;
+    width: 170px;
+    height: 87px;
+    left: 782px;
+    right: 6px;
+    top: 3px;
+    bottom: -4106px;
+    border-radius: 10px;
+
+    background: rgb(33, 64, 142);
+  }
+  .but p{
+    /* next */
+    position: absolute;
+    width: 62px;
+    height: 35px;
+    left: 53px;
+    right: -45px;
+    top: 26px;
+    bottom: -4080px;
+    color: rgb(255, 255, 255);
+    font-family: Roboto;
+    font-size: 30px;
+    font-weight: 400;
+    line-height: 35px;
+    letter-spacing: 0%;
+    text-align: left;
+    text-transform: capitalize;
+  }
 
 @media screen and (max-width:916px){
     
