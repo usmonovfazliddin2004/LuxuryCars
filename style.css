@@ -3,88 +3,642 @@
     padding: 0;
     box-sizing: border-box;
 }
-
-/* <!-- Zafar -->
-
-
-
-
-
-<!-- Jahon -->
-
-
-
-
-<!-- Fazliddin -->
+body{
+    background: #000;
+}
+.wrapper{
+    width: 1440px;
+    background: #FFF;
+    margin: auto;
+}
+/*<!-- Zafar -->*/
 
 
 
 
 
-<!-- Abdurashid -->
+/*<!-- Jahon -->*/
 
 
 
 
+/*<!-- Fazliddin -->*/
+.Fazliddin{
+width: 1440px;
+height: 685.06px;
+display: flex;
+}
+.Fazliddin_box img{
+    width: 927.95px;
+height: 685.06px;
+margin-left: -100px;
+}
+.Fazliddin_box1 h1{
+    color: rgb(33, 64, 142);
+    font-family: DM Serif Display;
+    font-size: 45px;
+    font-weight: 400;
+    line-height: 62px;
+    letter-spacing: 0%;
+   margin-left: 130px;
+    margin-top: 114px;
+}
+.box1_block{
+    display: flex;
+    gap: 32px;
+    margin-top: 30px;
+}
+.block_quti{
+width: 354px;
+height: 83px;
+}
+.block_quti p{
+    margin-top: 10px;
+}
+.Fazliddin_section{
+    width: 1440px;
+    height: 1173px;
+    background: #FFF;
+    margin-top: 77px;
+    padding-top: 40px;
+}
+.Fazliddin_section h1{
+    text-align: center;
+    color: rgb(0, 0, 0);
+font-family: DM Serif Display;
+font-size: 45px;
+font-weight: 400;
+line-height: 62px;
+letter-spacing: 0%;
+text-transform: capitalize;
+}
+.section_box{
+    display: flex;
+   gap: 19px;
+   margin-left: 69px;
 
-<!-- Umar --> */
+   margin-right: 62px;
+}
+.section_box_block{
+    width: 309px;
+    height: 565px;
+    border-radius: 21px 21px 0px 0px;
+box-shadow: 5px 8px 19px -2px rgba(0, 0, 0, 0.44);
+background: rgb(203, 201, 194);
+margin-top: 70px;
+}
+.box_block_quti{
+    border-radius: 21px 21px 0px 0px;
+width: 309px;
+height: 167px;
+background: rgb(250, 245, 248);
+padding: 25px 43px;
+}
+.box_block_quti h1{
+    color: rgb(33, 64, 142);
+font-family: Bodoni MT;
+font-size: 34px;
+font-weight: 400;
+line-height: 41px;
+letter-spacing: 0%;
+text-align: left;
+text-transform: capitalize;
+}
+.section_box_block_img1{
+    margin-top: 46px;
+}
+.box_block_quti1{
+    border-radius: 21px 21px 0px 0px;
+width: 309px;
+height: 143px;
+margin-top: -50px;
+background: rgb(255, 255, 255);
+padding-top: 8px;
+}
+.box_block_quti1 h3{
+    margin-left: 30px;
+}
+.block_quti_under{
+    display: flex;
+    justify-content: space-between;
+    margin-left: 21px;
+    margin-right: 29px;
+}
+.under_input{
+    display: flex;
+    gap: 7px;   
+    margin-top: 10px;
+}
+.under_input img{
+    margin-top: 0px;
+}
+.under_input p{
+margin-top: 2px;
+}
+.box_block_quti1 h1{
+    color: rgb(33, 64, 142);
+font-family: Roboto;
+font-size: 25px;
+font-weight: 400;
+line-height: 29px;
+letter-spacing: 0%;
+text-align: center;
+text-transform: capitalize;
+margin-top: 23px;
+}
+.box_block_quti1_button{
+    border-radius: 12px;
+width: 164px;
+height: 40px;
+margin-left: 75px;
+border: none;
+margin-top: 9px;
+background: rgb(33, 64, 142);
+cursor: pointer;
+}
+a{
+    text-decoration: none;
+}
+.box_block_quti1_button a{
+    color: rgb(255, 255, 255);
+    font-family: Roboto;
+    font-size: 22px;
+    font-weight: 400;
+    line-height: 26px;
+    letter-spacing: 0%;
+    text-transform: capitalize;
+}
+.section_box_block_img2{
+    margin-top: 71px;
+    margin-left: -20px;
+    margin-bottom: 17px;
+}
+.section_box_block_img3{
+    margin-top: 50px;
+    margin-left: -50px;
+    margin-bottom: 6px;
+}
+.section_box_block_img4{
+margin-top: 52px;
+margin-left: -30px;
+margin-bottom: 28px;
+}
+.Fazliddin_section h2{
+    color: rgb(0, 0, 0);
+font-family: DM Serif Display;
+font-size: 45px;
+font-weight: 400;
+line-height: 62px;
+letter-spacing: 0%;
+text-align: center;
+text-transform: capitalize;
+margin-top: 83px;
+}
+.Fazliddin_section_box{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 60px;
+    margin-left: 192px;
+    margin-right: 191px;
+}
+.section_box_block1{
+    border-radius: 13px;
+width: 181px;
+height: 55px;
+border: none;
+background: rgb(196, 196, 196);
+display: flex;
+align-items: center;
+justify-content: center;
+}
+.section_box_block1 p{
+    color: rgb(0, 0, 0);
+font-family: Roboto;
+font-size: 22px;
+font-weight: 400;
+line-height: 26px;
+letter-spacing: 0%;
+text-transform: capitalize;
+}
+.see{
+    color: rgb(0, 0, 0);
+font-family: Roboto;
+font-size: 25px;
+font-weight: 400;
+line-height: 29px;
+letter-spacing: 0%;
+text-align: center;
+text-transform: capitalize;
+margin-top: 47px;
+}
+.Fazliddin_section1{
+    margin-top: 128px;
+    width: 1440px;
+    height: 528px;
+    padding-top: 20px;
+}
+.Fazliddin_section1 h1{
+    color: rgb(0, 0, 0);
+font-family: DM Serif Display;
+font-size: 45px;
+font-weight: 400;
+line-height: 62px;
+letter-spacing: 0%;
+margin-left: 519px;
+width: 482px;
+}
+.Fazliddin_section1_box{
+    display: flex;
+    justify-content: space-between;
+    margin-left: 141px;
+    margin-right: 112px;
+    margin-top: 75px;
+}
+.section1_box_block{
+    text-align: center;
+}
+.section1_box_block p{
+width: 300px;
+}
+.section_box_block2{
+    display: flex;
+    gap: 19px;
+}
+.box_block3{
+    display: flex;
+    gap: 20px;
+}
+.box_block4{
+    display: flex;
+    gap: 20px;
+}
+.section_box1{
+    display: flex;
+    gap: 30px;
+}
+/*<!-- Abdurashid -->*/
 
 
-@media screen and (max-width:916px){
+
+
+/* Umar --> */
+
+
+@media screen  and (max-width:916px){
     
-  /* <!-- Zafar -->
+/*<!-- Zafar -->*/
 
-
-
-
-
-<!-- Jahon -->
-
-
-
-
-<!-- Fazliddin -->
-
-
-
-
-
-<!-- Abdurashid -->
-
-
-
-
-
-<!-- Umar --> */
-  
+.wrapper{
+    width: 916px;
+    background: #FFF;
 }
 
 
-@media screen and (max-width:414px) {
+
+/*<!-- Jahon -->*/
+
+
+
+
+/*<!-- Fazliddin -->*/
+
+.Fazliddin_section{
+    width: 916px;
+    height: 1800px;
+    background: #FFF;
+}
+.Fazliddin_box img{
+width: 700px;
+height: 400px;
+margin-left: -140px;
+margin-top: 177px;
+}
+.Fazliddin_box1 h1{
+    color: rgb(33, 64, 142);
+font-family: DM Serif Display;
+font-size: 35px;
+font-weight: 400;
+line-height: 48px;
+letter-spacing: 0%;
+margin-top: 212px;
+margin-left: 100px;
+}
+.Fazliddin_box1{
+    margin-left: -50px;
+}
+.box1_block > div img{
+    width: 67px;
+    height: 51px;
+
+}
+.We{
+    color: rgb(0, 0, 0);
+font-family: DM Serif Display;
+font-size: 35px;
+font-weight: 400;
+line-height: 48px;
+letter-spacing: 0%;
+margin-top: 259px;
+text-align: center;
+text-transform: capitalize;
+margin-top: 80px;
+
+}
+.Fazliddin{
+    width: 916px;
+}
+.block_quti p{
+width: 200px;
+}
+.section_box{
+display: flex;
+flex-direction: column;
+}
+.box_block3{
+    display: flex;
+    gap: 77px;
+    margin-left: 30px;
+}
+.box_block4{
+    display: flex;
+    gap: 77px;
+    margin-left: 30px;
+}
+.box1_block{
+    
+    width: 221px;
+}
+.Fazliddin_section_box{
+    gap: 13px;
+    justify-content: center;
+}
+.Fazliddin_section_box .section_box_block1:nth-child(1){
+    width: 131px;
+    height: 39px;
+    padding-right: 5px;
+}
+.Fazliddin_section_box .section_box_block1:nth-child(1) img{
+    width: 72px;
+}
+.Fazliddin_section_box .section_box_block1:nth-child(2){
+    width: 142px;
+    height: 39px;
+    gap: 5px;
+    padding-left: 5px;
+    padding-right: 5px;
+}
+.Fazliddin_section_box .section_box_block1:nth-child(2) img{
+    width: 54px;
+}
+.Fazliddin_section_box .section_box_block1:nth-child(2) p{
+    color: rgb(0, 0, 0);
+font-family: Roboto;
+font-size: 20px;
+font-weight: 400;
+line-height: 23px;
+letter-spacing: 0%;
+text-transform: capitalize;
+}
+.Fazliddin_section_box .section_box_block1:nth-child(3){
+width: 153px;
+height: 39px;
+padding-left: 8px;
+padding-right: 8px;
+}
+.Fazliddin_section_box .section_box_block1:nth-child(3) img{
+    width: 43px;
+}
+.Fazliddin_section_box .section_box_block1:nth-child(3) p{
+    color: rgb(0, 0, 0);
+font-family: Roboto;
+font-size: 20px;
+font-weight: 400;
+line-height: 23px;
+letter-spacing: 0%;
+text-transform: capitalize;
+}
+.Fazliddin_section_box .section_box_block1:nth-child(4){
+    width: 131px;
+    height: 39px;
+    padding-right: 8px;
+}
+.Fazliddin_section_box .section_box_block1:nth-child(4) img{
+width: 37px;
+height: 37px;
+}
+.Fazliddin_section_box .section_box_block1:nth-child(4) p{
+    color: rgb(0, 0, 0);
+font-family: Roboto;
+font-size: 20px;
+font-weight: 400;
+line-height: 23px;
+letter-spacing: 0%;
+text-transform: capitalize;
+}
+.Fazliddin_section_box .section_box_block1:nth-child(5){
+    width: 112px;
+    height: 39px;
+    padding-left: 8px;
+    padding-right: 16px;
+}
+.Fazliddin_section_box .section_box_block1:nth-child(5) img{
+width: 35px;
+height: 30px;
+}
+.Fazliddin_section_box .section_box_block1:nth-child(5) p{
+    color: rgb(0, 0, 0);
+font-family: Roboto;
+font-size: 20px;
+font-weight: 400;
+line-height: 23px;
+letter-spacing: 0%;
+text-transform: capitalize;
+}
+.see{
+    text-align: center;
+    color: rgb(0, 0, 0);
+font-family: Roboto;
+font-size: 25px;
+font-weight: 400;
+line-height: 29px;
+letter-spacing: 0%;
+text-transform: capitalize;
+}
+.Fazliddin_section1 {
+    width: 916px;
+    background: #FFF;
+
+}
+.Fazliddin_section1 h1{
+    color: rgb(0, 0, 0);
+font-family: DM Serif Display;
+font-size: 35px;
+font-weight: 400;
+line-height: 48px;
+letter-spacing: 0%;
+margin-left: 267px;
+text-align: center;
+width: 375px;
+
+}
+.Fazliddin_section1_box{
+    margin-left: 59px;
+}
+.section1_box_block p{
+    color: rgba(0, 0, 0, 0.6);
+font-family: Roboto;
+font-size: 15px;
+font-weight: 400;
+line-height: 18px;
+letter-spacing: 0%;
+text-align: center;
+width: 237px;
+margin-top: 10px;
+}
+/*<!-- Abdurashid -->*/
+
+
+
+
+/* Umar --> */
+
+}
+
+
+@media screen  and (max-width:414px) {
     
      
-  /* <!-- Zafar -->
+/*<!-- Zafar -->*/
 
 
 
 
 
-<!-- Jahon -->
+/*<!-- Jahon -->*/
 
 
 
 
-<!-- Fazliddin -->
+/*<!-- Fazliddin -->*/
+.Fazliddin{
+    width: 414px;
+    background: #FFF;
+    margin-top: 58.06px;
+}
+.Fazliddin_box img{
+    width: 700px;
+    height: 400px;
+    margin-left: -130px;
+
+}
+.Fazliddin_box1 h1{
+    width: 200px;
+}
+.We{
+    color: rgb(0, 0, 0);
+font-family: DM Serif Display;
+font-size: 20px;
+font-weight: 400;
+line-height: 27px;
+letter-spacing: 0%;
+width: 600px;
+text-align: center;
+margin-left: 150px;
+text-transform: capitalize;
+margin-top: -50px;
+}
+.Fazliddin_section{
+    width: 414px;
+    background: #FFF;
+    height: 1300px;
+}
+.box_block4{
+    display: none;
+}
+.box_block3 .section_box_block:nth-child(2){
+    display: none;
+}
+.box_block3 .section_box_block:nth-child(1){
+    width: 500px;
+    height: 800px;
+    margin-left: 100px;
+}
+.box_block_quti{
+    width: 500px;
+    padding-top: 56px;
+    padding-left: 150px;
+}
+.section_box_block_img1{
+    width: 500px;
+}
+.box_block_quti1{
+    width: 500px;
+    height: 230px;
+}
+.under_input img{
+    width: 40px;
+    height: 40px;
+}
+.under_input p{
+    color: rgb(0, 0, 0);
+font-family: Roboto;
+font-size: 25px;
+margin-top: 15px;
+font-weight: 400;
+line-height: 18px;
+letter-spacing: 0%;
+text-transform: capitalize;
+}
+.box_block_quti1 h1{
+    color: rgb(33, 64, 142);
+font-family: Roboto;
+font-size: 30px;
+font-weight: 400;
+line-height: 23px;
+letter-spacing: 0%;
+text-transform: capitalize;
+margin-top: 20px;
+}
+.box_block_quti1_button{
+    width: 200px;
+height: 50px;
+margin-top: 80px;
+margin-left: 150px;
+}
+.Fazliddin_section h2{
+  margin-left: 140px;
+  margin-top: 120px;
+  width: 600px;
+}
+.Fazliddin_section_box{
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+    text-align: center;
+}
+.Fazliddin_section_box .section_box1:nth-child(1){
+    margin-left: 100px;
+}
+.Fazliddin_section_box .section_box1:nth-child(2) .section_box_block1:nth-child(1){
+   padding-left: 10px;
+   width: 200px; 
+   padding-right: 10px;
+}
+.Fazliddin_section_box .section_box1:nth-child(2) .section_box_block1:nth-child(2){
+width: 180px;
+padding-right: 10px;
+}
+.see{
+    margin-left: 200px;
+    width: 500px;
+    margin-top: 80px;
+}
+
+/*<!-- Abdurashid -->*/
 
 
 
 
-
-<!-- Abdurashid -->
-
-
-
-
-
-<!-- Umar --> */   
+/* Umar --> */
+  
 }
