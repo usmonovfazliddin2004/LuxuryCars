@@ -234,6 +234,113 @@
     background: rgb(33, 64, 142);
     border: none;
   }
+  footer{
+    /* Rectangle 43 */
+    position: absolute;
+    width: 1440px;
+    height: 595px;
+    left: 0;
+    right: 0;
+    top: 4635px;
+    bottom: -4635px;
+    background: rgb(8, 22, 48);
+  }
+  .services{
+    display: flex;
+    flex-direction: column;
+    gap: 21px;
+  }
+  .services11{
+    display: flex;
+    flex-direction: column;
+    gap: 21px;
+    position: absolute;
+    top: 0px;
+    left: 518px;
+  }
+  .services2{
+    display: flex;
+    flex-direction: column;
+    gap: 21px;
+    position: absolute;
+    top: 0px;
+    left: 976px;
+  }
+  .Reservation{
+    /* Reservation */
+    position: absolute;
+    width: 300px;
+    left: 168px;
+    right: 715px;
+    top: 151px;
+    bottom: -4786px;
+    color: rgb(255, 255, 255);
+    font-family: DM Serif Display;
+    font-size: 28px;
+    font-weight: 400;
+    line-height: 38px;
+    letter-spacing: 0%;
+    text-align: left;
+    text-transform: capitalize;
+  }
+  .servs{
+    /* car hire modify or cancel Get a receipt */
+    position: absolute;
+    width: 217px;
+    height: 204px;
+    left: 168px;
+    right: 1055px;
+    top: 217px;
+    bottom: -4461px;
+    color: rgb(255, 255, 255);
+    font-family: Roboto;
+    font-size: 25px;
+    font-weight: 400;
+    line-height: 29px;
+    letter-spacing: 0%;
+    text-align: left;
+    text-transform: capitalize;
+  }
+  .line{
+    /* Rectangle 44 */
+    position: absolute;
+    width: 1079px;
+    height: 2px;
+    left: 168px;
+    right: 193px;
+    top: 433px;
+    bottom: -4478px;
+    background: rgb(255, 249, 249);
+  }
+  .webs p{
+    /* LUXURYCARS */
+    position: absolute;
+    width: 398px;
+    height: 41px;
+    left: 168px;
+    right: 874px;
+    top: 471px;
+    bottom: -4552px;
+    color: rgb(255, 255, 255);
+    font-family: Roboto;
+    font-size: 32px;
+    font-weight: 400;
+    line-height: 38px;
+    letter-spacing: 0%;
+    text-align: left;
+  }
+  .robber{
+    /* Vector */
+    position: absolute;
+    width: 40px;
+    height: 40px;
+    left: 980px;
+    right: 20%;
+    top: 471px;
+    bottom: 20%;
+    display: flex;
+    gap: 40px;
+  }
 @media screen and (max-width:916px){
     
   /* <!-- Zafar -->
